@@ -32,3 +32,4 @@ IOxSET: Writing a '1' to a bit in this register sets the corresponding pin to a 
 IOxCLR: Writing a '1' to a bit in this register clears the corresponding pin, setting it to a low logic level.
 IOxDIR: This register controls the direction of the pins in the GPIO port. Each bit corresponds to a specific pin, and writing a '1' configures the pin as an input, while writing a '0' configures it as an output.
 
+![image](https://github.com/ALINRAJR/GPIO_01/assets/85385547/c5c1b987-2cec-42b4-bc18-437f191d1d78)
